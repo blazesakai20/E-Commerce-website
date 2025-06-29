@@ -7,9 +7,13 @@ Deployed Link - https://styleheaven.netlify.app/
 ## Run Locally
 
 Go to the project directory
+
 cd React_E-Commerce
+
 npm install
+
 npm start
+
 
 ## Tech Stack
 * [React](https://reactjs.org/)
