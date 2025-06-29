@@ -1,6 +1,17 @@
 # E-Commerce Website
 
 A Ecommerce Website made with React.js Framework , Redux and FakeStore API
+Frontend:
+
+Built with React 
+
+Responsive design (mobile + desktop)
+
+Pages: Home , Products, Cart, About , Contact, Login/Register, Checkout
+
+Proper feedback for user actions
+
+REST API to fetch products from FakeStore API, cart operations, and order placement.
 
 Deployed Link - https://styleheaven.netlify.app/
 
